@@ -48,7 +48,7 @@ guiTypes = {
 				position = { x = -150 y = 100 }
 				font = "loadscreen_header"
 				borderSize = { x = 0 y = 0 }
-				text = "VERSION: v3-alpha"
+				text = "VERSION: v4-alpha"
 				format = centre
 				maxWidth = 250
 				maxHeight = 100
